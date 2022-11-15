@@ -1,9 +1,17 @@
+#include "Point2D.h"
+#include <iostream>
 
-class Point2D
+using namespace std;
+using namespace N;
+
+Point2D::Point2D()
 {
-  double x;
-  double y;
+  x = 0.0;
+  y = 0.0;
+}
 
-public:
-  Point2D(double in_x, double in_y)
+Point2D::Point2D(double in_x, double in_y)
+{
+  x = in_x;
+  y = in_y;
 }
