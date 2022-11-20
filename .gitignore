@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+.vs/Classwork/v17/Browse.VC.db
+
+.vs/Classwork/v17/Browse.VC.opendb
