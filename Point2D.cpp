@@ -6,8 +6,8 @@ using namespace N;
 
 Point2D::Point2D()
 {
-  x = 0.0;
-  y = 0.0;
+  double x = 0.0;
+  double y = 0.0;
 }
 
 Point2D::Point2D(double in_x, double in_y)

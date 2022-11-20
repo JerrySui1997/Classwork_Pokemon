@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #pragma once
 #include "Building.h"
 
@@ -23,7 +22,3 @@ namespace N
 		void ShowStatus();
 	};
 }
-=======
-#ifndef POINT2D_H
-#define POINT2D_H
->>>>>>> Stashed changes
